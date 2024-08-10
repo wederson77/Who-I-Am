@@ -1,5 +1,3 @@
-Aqui está uma sugestão de README para o seu perfil no GitHub:
-
 ---
 
 ### Olá, eu sou o Wenderson 👋
@@ -18,9 +16,3 @@ Sou um programador autodidata de 21 anos, apaixonado por liberdade, descentraliz
 Gosto de trabalhar em projetos open source que reflitam meus valores e princípios, e estou sempre em busca de oportunidades para colaborar em iniciativas que promovam liberdade e inovação.
 
 ### Vamos Conectar!
-
-Sinta-se à vontade para explorar meus repositórios e, se você compartilha dessas mesmas paixões, adoraria colaborar com você em projetos que possam fazer a diferença.
-
----
-
-Essa versão reflete bem seus valores e interesses. Se precisar de algum ajuste, estou por aqui!
