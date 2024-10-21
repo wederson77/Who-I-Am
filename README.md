@@ -11,7 +11,11 @@
 
 <h2 style="color: #007ACC;">📚 Sobre Mim</h2>
 <p>
-  Olá! Sou um desenvolvedor apaixonado pelas melhores práticas de programação e tecnologias modernas. As linguagens e ferramentas que eu mais uso e amo são:
+  Olá! Seja bem vindo a meu GitHub! . Sou um desenvolvedor autodidata, apaixonado por problemas que a  programação e a tecnologias resolvem. 
+  Gosto de crirar pequenos sistemas que me auxiliam em tarefas do dia a dia, gosto de automatizar pequenas tarefas em Rust.
+  Tenho noção de boas praticas de programação, noções de arquiteturas e flexibilidade para trabalhar com outras linguagens.
+  </br>
+  As linguagens e ferramentas que eu mais uso e amo são:
 </p>
 <ul style="list-style-type: none;">
   <li>🔸 <strong>JavaScript:</strong> Minha principal escolha para desenvolvimento web.</li>
@@ -22,24 +26,8 @@
 
 <hr>
 
-<h2 style="color: #FF5722;">🚀 Projetos em Destaque</h2>
-<p>
-  Confira alguns dos meus projetos em destaque usando essas tecnologias incríveis.
-</p>
-
-<p style="text-align: center;">
-  <a href="https://github.com/seu-usuario/projeto1" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Projeto 1</button>
-  </a>
-  <a href="https://github.com/seu-usuario/projeto2" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #007ACC; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Projeto 2</button>
-  </a>
-</p>
-
-<hr>
-
-<h2 style="color: #F44336;">📫 Entre em Contato</h2>
+<h2 style="color: #F44336;">Email para contato: wendersonpina10@gmail.com</h2>
 <p>Fique à vontade para me enviar uma mensagem ou colaborar nos meus projetos!</p>
 <p style="text-align: center;">
-  <a href="mailto:seu-email@example.com" style="text-decoration: none; color: #FF5722;">✉️ wendersonpina10@gmail.com</a>
+  <a href="wendersonpina10@gmail.com style="text-decoration: none; color: #FF5722;">✉️ wendersonpina10@gmail.com</a>
 </p>
